@@ -15,7 +15,7 @@
   "dependencies": {
     "cli-color": "0.2.3",
     "cli-table": "0.3.0",
-    "ejs": "0.8.5",
+    "ejs": "3.1.10",
     "fibers": "1.0.15",
     "minimist": "0.0.8",
     "shell-source": "1.1.0",
